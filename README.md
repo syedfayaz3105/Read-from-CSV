@@ -28,3 +28,4 @@ print("Number of columns:", len(df.columns))
 
 
 ## RESULT:
+Thus python program for reading content from a CSV file is successful.
